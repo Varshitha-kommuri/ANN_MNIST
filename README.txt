@@ -1,5 +1,12 @@
-It will be convinient to broadly break down this project as a five step process.
+It will be convinient to broadly break down this project as a SIX step process.
 
+STEP 0: Download the MNIST dataset :
+
+# To , work on the MNIST dataset , you can either download the csv files uploaded in this repository which consist    # of 10,000 training examples and 350 testing examples.
+# Or feel free to use MNIST datasets available online, eventhough the  basic process remains same but you should 
+# be careful of the path specification, and size of the images.
+
+# ---
 
 STEP 1: Initialize parameters randomly :
 
