@@ -1,3 +1,5 @@
+THIS IS A BASIC MACHINE LEARNING PROJECT THAT BUILDS ARTIFICIAL NEURAL NETWORK (ANN) TO PREDICT DIGITS (0-9) TRAINED AND TESTED USING WELL-KNOWN MNIST DATASET.
+
 It will be convinient to broadly break down this project as a SIX step process.
 
 STEP 0: Download the MNIST dataset :
